@@ -1,0 +1,11 @@
+Welcome to somefile.txt!
+
+This is a sample text file served by the Simple File Server.
+
+You can use this file to test the file serving functionality of your server.
+
+Feel free to modify this file or add more content to test different scenarios.
+
+Thank you for using the Simple File Server!
+
+- The File Server Team
